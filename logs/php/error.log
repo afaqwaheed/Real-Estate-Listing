@@ -1,0 +1,82 @@
+[05-Sep-2024 16:51:33 UTC] WordPress database error Table 'local.wp_houzez_fields_builder' doesn't exist for query SELECT * FROM wp_houzez_fields_builder ORDER BY id ASC made by do_action('wp_ajax_houzez_plugin_activate'), WP_Hook->do_action, WP_Hook->apply_filters, Houzez_Admin::houzez_plugin_activate, activate_plugin, plugin_sandbox_scrape, include_once('/plugins/houzez-theme-functionality/houzez-theme-functionality.php'), Houzez::run, Houzez::houzez_ucfd_dummy, Houzez_Fields_Builder::get_form_fields
+[05-Sep-2024 16:55:30 UTC] PHP Warning:  Undefined variable $number_of_days in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\plugins\favethemes-insights\favethemes-insights.php on line 159
+[05-Sep-2024 16:57:48 UTC] MLS SYNC : Update check
+[05-Sep-2024 16:57:52 UTC] MLS SYNC : Updated
+[05-Sep-2024 16:57:52 UTC] App: purgeAttachments
+[05-Sep-2024 16:57:52 UTC] App: purgeAttachments : call core 
+[05-Sep-2024 16:57:52 UTC] Core: purgeAttachments
+[05-Sep-2024 16:57:52 UTC] Core: purgeAttachments : call property
+[05-Sep-2024 16:59:57 UTC] App: PurgeListings : error in object
+[05-Sep-2024 17:27:50 UTC] App: purgeAttachments : error in object 
+[05-Sep-2024 17:29:46 UTC] App: PurgeListings : error in object
+[05-Sep-2024 17:57:49 UTC] App: purgeAttachments : error in object 
+[05-Sep-2024 17:59:46 UTC] App: PurgeListings : error in object
+[05-Sep-2024 18:27:46 UTC] App: purgeAttachments : error in object 
+[05-Sep-2024 18:29:48 UTC] App: PurgeListings : error in object
+[05-Sep-2024 18:57:47 UTC] App: purgeAttachments : error in object 
+[05-Sep-2024 18:59:49 UTC] App: PurgeListings : error in object
+[05-Sep-2024 19:22:49 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:22:49 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:22:49 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:22:49 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:22:49 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:24:12 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:24:12 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:24:12 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:24:12 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:24:12 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:25:27 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:25:27 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:25:27 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:25:27 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:25:27 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:26:42 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:26:42 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:26:42 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:26:42 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:26:42 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:27:32 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:27:32 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:27:32 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:27:32 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:27:32 UTC] PHP Warning:  Undefined array key "area" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 23
+[05-Sep-2024 19:27:32 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:27:47 UTC] App: purgeAttachments : error in object 
+[05-Sep-2024 19:29:34 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:29:34 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:29:34 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:29:34 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:29:34 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:29:45 UTC] App: PurgeListings : error in object
+[05-Sep-2024 19:30:38 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:30:38 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:30:38 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:30:38 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:30:38 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:31:08 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:31:08 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:31:08 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:31:08 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:31:08 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:33:07 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:33:07 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:33:07 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:33:07 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:33:07 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:34:32 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:34:32 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:34:32 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:34:32 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:34:32 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:34:50 UTC] PHP Warning:  Undefined array key "address" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 11
+[05-Sep-2024 19:34:50 UTC] PHP Warning:  Undefined array key "city" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 14
+[05-Sep-2024 19:34:50 UTC] PHP Warning:  Undefined array key "state" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 17
+[05-Sep-2024 19:34:50 UTC] PHP Warning:  Undefined array key "zip" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 20
+[05-Sep-2024 19:34:50 UTC] PHP Warning:  Undefined array key "country" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\property-details\partials\address-data.php on line 26
+[05-Sep-2024 19:42:14 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[05-Sep-2024 19:42:20 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[05-Sep-2024 19:49:30 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[05-Sep-2024 19:54:16 UTC] PHP Warning:  Undefined variable $favorite_template in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\themes\houzez\template-parts\header\partials\login-register-mobile.php on line 42
+[05-Sep-2024 19:54:53 UTC] PHP Warning:  Undefined variable $fid in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\plugins\houzez-login-register\functions\login_register.php on line 274
+[05-Sep-2024 19:54:53 UTC] PHP Warning:  Undefined variable $fid in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\plugins\houzez-login-register\functions\login_register.php on line 275
+[05-Sep-2024 19:55:04 UTC] PHP Warning:  Undefined array key "is_submit_listing" in C:\Users\Shekhani Laptops\Local Sites\real-estate-listing\app\public\wp-content\plugins\houzez-login-register\functions\login_register.php on line 24
