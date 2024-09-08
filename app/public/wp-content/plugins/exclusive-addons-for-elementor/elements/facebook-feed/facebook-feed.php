@@ -62,7 +62,7 @@ class Facebook_Feed extends Widget_Base {
 			[
 				'label' => esc_html__('Access Token', 'exclusive-addons-elementor' ),
 				'type' => Controls_Manager::TEXT,
-				'default' => 'EAAkn4TitXBIBALh0uMIsK6ZAnQywN62Izkw9nh5G3BRH3uKQJwfVoaZCZA4ZBKcCV00KLrFRZCgGrM4lpHytJGhhcj2jqZChcMbx5KqIL5xarn6EkPiZAwrR5tFtTWw6YZAo35OuzwPtyW5DceYJmAsrwf2v9R3skZCBClIHXjCQ5b42Xa0GV5xMG',
+				'default' => '',
 				'label_block' => true,
 				'description' => '<a href="https://developers.facebook.com/apps/" target="_blank">Get Access Token.</a>',
 			]
